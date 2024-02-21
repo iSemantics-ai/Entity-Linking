@@ -4,4 +4,4 @@ Entity linking is a project that involves using rule-based normalization methods
 
 ## Added Value
 
-This model will be used in industry to link different namings of a company together to avoid losing information due to abbreviations and spelling errors.
+This model will be used in industry to link different namings of a company together to avoid losing information due to abbreviations and spelling errors. For example, a database containing profits and shares of a company can be merged together to another database the contains the meta data and employees records of that company even if they are written differently.
